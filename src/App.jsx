@@ -41,8 +41,8 @@ import nogif8 from "./assets/GifData/No/breakRej7.gif";
 //! yes - Music Importing
 import yesmusic1 from "./assets/AudioTracks/Love_LoveMeLikeYouDo.mp3";
 import yesmusic2 from "./assets/AudioTracks/Love_EDPerfect.mp3";
-import yesmusic3 from "./assets/AudioTracks/Love_Nadaaniyan.mp3";
-import yesmusic4 from "./assets/AudioTracks/Love_JoTumMereHo.mp3";
+import yesmusic3 from "./assets/AudioTracks/Trust No1 by brandy maina.mp3";
+import yesmusic4 from "./assets/AudioTracks/34+35.mp3";
 //! no - Music Importing
 import nomusic1 from "./assets/AudioTracks/Rejection_WeDontTalkAnyMore.mp3";
 import nomusic2 from "./assets/AudioTracks/Rejection_LoseYouToLoveMe.mp3";
@@ -401,7 +401,7 @@ const Footer = () => {
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      {" "}by Ujjwal
+      {" "}by Sirm
     </a>
   );
 };
